@@ -1,6 +1,9 @@
 # mean_median_mode
 find the mean,median and mode of the unordered list or array
-      #include<iostream>
+        
+        
+        
+       #include<iostream>
       #include<algorithm>
       #include<cmath>
       using namespace std;
